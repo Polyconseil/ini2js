@@ -1,6 +1,6 @@
 {
   "name": "ini2js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./index.js",
   "description": "Converts .ini files to a JS script executable in a browser",
   "publishConfig": {
